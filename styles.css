@@ -1,0 +1,39 @@
+p{
+    color: green;
+}
+
+.caja{
+    width: 250px;
+    height: 250px;
+    border: 1px solid rgb(255,0,0);
+    background-color: rgba(0,255,0, 0.5); /*El ultimo parametro es la opacidad*/
+    /*background-color: #ffffff; Se suele usar el formato hexadecimal para representar lo mismo 16x16=256*/
+}
+
+h1{
+    position: absolute;
+}
+
+.caja_1{
+    width: 800px;
+    height: 300px;
+    background-color: #ECEE81;
+}
+
+.caja_2{
+    width: 800px;
+    height: 200px;
+    background-color: #8DDFCB;
+}
+
+.caja_3{
+    width: 800px;
+    height: 150px;
+    background-color: #82A0D8;
+}
+
+.caja_4{
+    width: 800px;
+    height: 100px;
+    background-color: #EDB7ED;
+}
